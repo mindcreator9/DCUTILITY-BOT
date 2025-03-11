@@ -13,6 +13,6 @@ A Discord bot created by mindcreator9 for administrative tasks, duty tracking, a
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/tu-usuario/dcutilitytools.git
+   git clone https://github.com/mindcreator9/dcutilitytools.git
 ## Contact
 - `mindcreator9`: Discord.
