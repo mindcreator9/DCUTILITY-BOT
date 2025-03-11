@@ -14,3 +14,5 @@ A Discord bot created by mindcreator9 for administrative tasks, duty tracking, a
 1. Clone this repository:
    ```bash
    git clone https://github.com/tu-usuario/dcutilitytools.git
+## Contact
+- `mindcreator9`: Discord.
