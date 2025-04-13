@@ -2,7 +2,7 @@
 A Discord bot created by mindcreator9 for administrative tasks, duty tracking, and server management.
 
 # Showcase
-[Youtube Video](https://www.youtube.com/watch?v=P30JxbUXQsc)
+## [Youtube Video](https://www.youtube.com/watch?v=P30JxbUXQsc)
 
 ## Features
 - `/on-duty`: Start an admin duty session.
