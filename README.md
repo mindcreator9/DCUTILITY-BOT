@@ -1,6 +1,9 @@
 # DCUtilityTools Bot
 A Discord bot created by mindcreator9 for administrative tasks, duty tracking, and server management.
 
+# Showcase
+[Youtube Video](https://www.youtube.com/watch?v=P30JxbUXQsc)
+
 ## Features
 - `/on-duty`: Start an admin duty session.
 - `/off-duty`: End an admin duty session with a summary.
