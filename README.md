@@ -1,6 +1,9 @@
 # DCUtilityTools Bot
 A Discord bot created by mindcreator9 for administrative tasks, duty tracking, and server management.
 
+# Important
+## Had to give credits in the bot to: mindcreator9 / The epic cake
+
 # Showcase
 ## [Youtube Video](https://www.youtube.com/watch?v=P30JxbUXQsc)
 
